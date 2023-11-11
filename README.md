@@ -1,7 +1,7 @@
 
 ### Welcome ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarojuniorcwb/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarosantoscwb/)
 
 ### Knowledge and work with
 
@@ -11,9 +11,9 @@
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-![Sleep GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptd2&show_icons=true&theme=synthwave)
+![Sleep GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarosantoscwb&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptd2&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosantoscwb&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### studying
